@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="https://jakarta.ee/xml/ns/persistence/orm"
+        version="3.0">
+
+    <entity class="entity.Users">
+        <table name="users" schema="public" catalog="pconlineweb"/>
+        <attributes>
+            <id name="id">
+                <column name="id"/>
+            </id>
+            <basic name="name">
+                <column name="name"/>
+            </basic>
+            <basic name="email">
+                <column name="email"/>
+            </basic>
+            <basic name="phone">
+                <column name="phone"/>
+            </basic>
+            <basic name="avatar">
+                <column name="avatar"/>
+            </basic>
+            <basic name="active">
+                <column name="active"/>
+            </basic>
+            <basic name="password">
+                <column name="password"/>
+            </basic>
+            <basic name="rememberToken">
+                <column name="remember_token"/>
+            </basic>
+            <basic name="totalPay">
+                <column name="total_pay"/>
+            </basic>
+            <basic name="address">
+                <column name="address"/>
+            </basic>
+            <basic name="provider">
+                <column name="provider"/>
+            </basic>
+            <basic name="providerId">
+                <column name="provider_id"/>
+            </basic>
+            <basic name="createdAt">
+                <column name="created_at"/>
+            </basic>
+            <basic name="updatedAt">
+                <column name="updated_at"/>
+            </basic>
+            <one-to-many name="paymentsById" mapped-by="usersByPuserid" target-entity="entity.Payments"/>
+            <one-to-many name="transactionsById" mapped-by="usersByTruserid" target-entity="entity.Transactions"/>
+        </attributes>
+    </entity>
+</entity-mappings>

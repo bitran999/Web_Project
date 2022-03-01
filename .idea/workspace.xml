@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PcOnline:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b928cd33-7e08-4e21-8a80-abaa8175e55e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/PcOnline_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/PcOnline_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/PcOnline_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/PcOnline_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/41b30c2b-7473-4015-910b-14eddcc58796.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/41b30c2b-7473-4015-910b-14eddcc58796.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39/storage_v2/_src_/database/pconlineweb.jgNukw/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39/storage_v2/_src_/database/pconlineweb.jgNukw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39/storage_v2/_src_/database/pconlineweb.jgNukw/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39/storage_v2/_src_/database/pconlineweb.jgNukw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39/storage_v2/_src_/database/pconlineweb.jgNukw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4992f660-4803-4da8-b2fb-7ad5cc792a39/storage_v2/_src_/database/pconlineweb.jgNukw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/51ef1f6a-3804-4ada-b289-c9c72268f5af.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/51ef1f6a-3804-4ada-b289-c9c72268f5af.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b6e578c0-7c46-4806-a708-7e1189852817.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b6e578c0-7c46-4806-a708-7e1189852817.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c0da0b60-59d5-4ae4-9f4d-af05c4281396.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c0da0b60-59d5-4ae4-9f4d-af05c4281396.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PcOnline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PcOnline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/AdminCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/AdminCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/DbUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/DbUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/Guest/cart/checkout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/Guest/cart/checkout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/Guest/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/Guest/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminHomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminHomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminLoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminNotFoundController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminNotFoundController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminRegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminRegisterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminTransactionsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/AdminTransactionsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/ContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/DefaultController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/FrontEndController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/FrontEndController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/FrontEndController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/FrontEndController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/FrontEndController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/FrontEndController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/RegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/RegisterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/ShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/ShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/UpdateAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/UpdateAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/UserBillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/UserBillController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Admins.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Admins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Categories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Categories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/GoogleEn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/GoogleEn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Payments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Payments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Products.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Products.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/entity/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/filters/AdminFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/filters/AdminFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/filters/GuestFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/filters/GuestFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/AdminsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/AdminsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/CategoriesModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/CategoriesModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/OrdersModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/OrdersModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/PaymentsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/PaymentsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/ProductsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/ProductsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/TransactionsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/TransactionsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/UsersModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/models/UsersModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/EmailConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/EmailConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/GoogleConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/GoogleConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/VnpayConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/VnpayConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/services/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/DbUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/DbUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/EmailUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/EmailUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/EmailUtil$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/EmailUtil$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/EmailUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/EmailUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/GoogleUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/GoogleUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/ServletUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/classes/utils/ServletUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Admin/product/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Admin/product/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Guest/cart/checkout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Guest/cart/checkout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Guest/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Guest/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Guest/vnpay/vnpay_return.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/PcOnline-1.0-SNAPSHOT/views/Guest/vnpay/vnpay_return.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminHomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminHomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminLoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminNotFoundController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminNotFoundController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminRegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminRegisterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/AdminTransactionsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/AdminTransactionsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/ContactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/ContactController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/DefaultController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/FrontEndController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/FrontEndController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/FrontEndController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/FrontEndController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/FrontEndController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/FrontEndController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/RegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/RegisterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/ShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/ShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/UpdateAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/UpdateAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/UserBillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/UserBillController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Admins.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Admins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Categories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Categories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/GoogleEn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/GoogleEn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Payments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Payments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Products.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Products.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/filters/AdminFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/filters/AdminFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/filters/GuestFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/filters/GuestFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/AdminsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/AdminsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/CategoriesModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/CategoriesModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/OrdersModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/OrdersModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/PaymentsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/PaymentsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/ProductsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/ProductsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/TransactionsModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/TransactionsModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/UsersModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/UsersModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/EmailConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/EmailConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/GoogleConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/GoogleConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/VnpayConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/VnpayConst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/DbUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/DbUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/EmailUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/EmailUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/EmailUtil$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/EmailUtil$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/EmailUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/EmailUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/GoogleUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/GoogleUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/ServletUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/ServletUtils.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="21qkIFfw788Jk48GkZvdJNuCB2d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/views/Guest/index.jsp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0">
+    <configuration name="All in PcOnline" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="PcOnline" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk-16.0.2" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="PcOnline:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/PcOnline_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="6219d5d2-6f87-405d-a771-27665c25206b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64685" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="PcOnline:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in PcOnline" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b928cd33-7e08-4e21-8a80-abaa8175e55e" name="Changes" comment="" />
+      <created>1638675989584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638675989584</updated>
+      <workItem from="1638675999475" duration="3549000" />
+      <workItem from="1638708447067" duration="8410000" />
+      <workItem from="1638745650063" duration="1766000" />
+      <workItem from="1638759675514" duration="4755000" />
+      <workItem from="1638842182131" duration="1117000" />
+      <workItem from="1638884328096" duration="6856000" />
+      <workItem from="1638914193583" duration="778000" />
+      <workItem from="1638916809464" duration="3994000" />
+      <workItem from="1638948715838" duration="12312000" />
+      <workItem from="1639028302407" duration="2374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:commons-codec:commons-codec" />
+    <option featureType="dependencySupport" implementationName="java:org.javassist:javassist" />
+    <option featureType="dependencySupport" implementationName="java:com.github.slugify:slugify" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.platform:junit-platform-engine" />
+    <option featureType="dependencySupport" implementationName="java:javax.activation:activation" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss:jandex" />
+    <option featureType="dependencySupport" implementationName="java:javax.activation:javax.activation-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.validation:validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.dom4j:dom4j" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.gson:gson" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml:classmate" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.common:hibernate-commons-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+    <option featureType="dependencySupport" implementationName="java:javax.mail:mail" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:jaxb-runtime" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.el:jakarta.el-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:fluent-hc" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:txw2" />
+    <option featureType="dependencySupport" implementationName="java:javax.persistence:javax.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec" />
+    <option featureType="dependencySupport" implementationName="java:jstl:jstl" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet:jstl" />
+    <option featureType="dependencySupport" implementationName="java:org.opentest4j:opentest4j" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.xml.fastinfoset:FastInfoset" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.web:jakarta.servlet.jsp.jstl" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-engine" />
+    <option featureType="dependencySupport" implementationName="java:org.sql2o:sql2o" />
+    <option featureType="dependencySupport" implementationName="java:commons-logging:commons-logging" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.xml.bind:jaxb-api" />
+    <option featureType="dependencySupport" implementationName="java:org.jvnet.staxex:stax-ex" />
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpcore" />
+    <option featureType="dependencySupport" implementationName="java:org.checkerframework:checker-qual" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.servlet:jakarta.servlet-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-lang3" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.platform:junit-platform-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss.logging:jboss-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.mindrot:jbcrypt" />
+    <option featureType="dependencySupport" implementationName="java:antlr:antlr" />
+    <option featureType="dependencySupport" implementationName="java:com.ibm.icu:icu4j" />
+    <option featureType="dependencySupport" implementationName="java:org.postgresql:postgresql" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.istack:istack-commons-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpclient" />
+    <option featureType="dependencySupport" implementationName="java:mysql:mysql-connector-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apiguardian:apiguardian-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet:javax.servlet-api" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

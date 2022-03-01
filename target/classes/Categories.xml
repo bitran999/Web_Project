@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="https://jakarta.ee/xml/ns/persistence/orm"
+        version="3.0">
+
+    <entity class="entity.Categories">
+        <table name="categories" schema="public" catalog="pconlineweb"/>
+        <attributes>
+            <id name="id">
+                <column name="id"/>
+            </id>
+            <basic name="cname">
+                <column name="cname"/>
+            </basic>
+            <basic name="cslug">
+                <column name="cslug"/>
+            </basic>
+            <basic name="cicon">
+                <column name="cicon"/>
+            </basic>
+            <basic name="cactive">
+                <column name="cactive"/>
+            </basic>
+            <basic name="ctitleseo">
+                <column name="ctitleseo"/>
+            </basic>
+            <basic name="cdescriptionseo">
+                <column name="cdescriptionseo"/>
+            </basic>
+            <basic name="ckeywordseo">
+                <column name="ckeywordseo"/>
+            </basic>
+            <basic name="chome">
+                <column name="chome"/>
+            </basic>
+            <basic name="createdat">
+                <column name="createdat"/>
+            </basic>
+            <basic name="updatedat">
+                <column name="updatedat"/>
+            </basic>
+            <one-to-many name="productsById" mapped-by="categoriesByProcategoryid" target-entity="entity.Products"/>
+        </attributes>
+    </entity>
+</entity-mappings>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="https://jakarta.ee/xml/ns/persistence/orm"
+        version="3.0">
+
+    <entity class="entity.Transactions">
+        <table name="transactions" schema="public" catalog="pconlineweb"/>
+        <attributes>
+            <id name="id">
+                <column name="id"/>
+            </id>
+            <basic name="trtotal">
+                <column name="trtotal"/>
+            </basic>
+            <basic name="trnote">
+                <column name="trnote"/>
+            </basic>
+            <basic name="traddress">
+                <column name="traddress"/>
+            </basic>
+            <basic name="trphone">
+                <column name="trphone"/>
+            </basic>
+            <basic name="trstatus">
+                <column name="trstatus"/>
+            </basic>
+            <basic name="trpayment">
+                <column name="trpayment"/>
+            </basic>
+            <basic name="createdat">
+                <column name="createdat"/>
+            </basic>
+            <basic name="updatedat">
+                <column name="updatedat"/>
+            </basic>
+            <many-to-one name="usersByTruserid" optional="true" target-entity="entity.Users">
+                <join-column name="truserid" referenced-column-name="id"/>
+            </many-to-one>
+            <one-to-many name="ordersById" mapped-by="transactionsByOrtransactionid" target-entity="entity.Orders"/>
+            <one-to-many name="paymentsById" mapped-by="transactionsByPtransactionid" target-entity="entity.Payments"/>
+        </attributes>
+    </entity>
+</entity-mappings>

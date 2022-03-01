@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="https://jakarta.ee/xml/ns/persistence/orm"
+        version="3.0">
+
+    <entity class="entity.Payments">
+        <table name="payments" schema="public" catalog="pconlineweb"/>
+        <attributes>
+            <id name="id">
+                <column name="id"/>
+            </id>
+            <basic name="pmoney">
+                <column name="pmoney"/>
+            </basic>
+            <basic name="pnote">
+                <column name="pnote"/>
+            </basic>
+            <basic name="pvnpresponsecode">
+                <column name="pvnpresponsecode"/>
+            </basic>
+            <basic name="pcodevnp">
+                <column name="pcodevnp"/>
+            </basic>
+            <basic name="pcodebank">
+                <column name="pcodebank"/>
+            </basic>
+            <basic name="ptime">
+                <column name="ptime"/>
+            </basic>
+            <basic name="ptransactioncode">
+                <column name="ptransactioncode"/>
+            </basic>
+            <basic name="createdAt">
+                <column name="created_at"/>
+            </basic>
+            <basic name="updatedat">
+                <column name="updatedat"/>
+            </basic>
+            <many-to-one name="transactionsByPtransactionid" optional="true" target-entity="entity.Transactions">
+                <join-column name="ptransactionid" nullable="false" referenced-column-name="id"/>
+            </many-to-one>
+            <many-to-one name="usersByPuserid" optional="true" target-entity="entity.Users">
+                <join-column name="puserid" nullable="false" referenced-column-name="id"/>
+            </many-to-one>
+        </attributes>
+    </entity>
+</entity-mappings>

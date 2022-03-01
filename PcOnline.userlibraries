@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="C:/Users/Admin/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <archive path="C:/Users/Admin/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.0">
+    <archive path="C:/Users/Admin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.0">
+    <archive path="C:/Users/Admin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.7.0">
+    <archive path="C:/Users/Admin/.m2/repository/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.7.0">
+    <archive path="C:/Users/Admin/.m2/repository/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/Admin/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="bootstrap">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@4.5.3_dist_css_bootstrap.css" />
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@4.5.3_dist_js_bootstrap.bundle.js" />
+  </library>
+  <library name="bootstrap-fileinput">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-fileinput_5.1.3_css_fileinput.css" />
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-fileinput_5.1.3_js_fileinput.js" />
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-fileinput_5.1.3_js_locales_vi.js" />
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-fileinput_5.1.3_themes_fa_theme.js" />
+  </library>
+  <library name="font-awesome">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_stackpath.bootstrapcdn.com_font-awesome_4.7.0_css_font-awesome.css" />
+  </library>
+  <library name="jquery-3.5.1">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_code.jquery.com_jquery-3.5.1.js" />
+  </library>
+  <library name="jquery-3.5.1.slim">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_code.jquery.com_jquery-3.5.1.slim.js" />
+  </library>
+  <library name="jquery-datetimepicker">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery-datetimepicker_2.5.20_jquery.datetimepicker.css" />
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery-datetimepicker_2.5.20_jquery.datetimepicker.full.js" />
+  </library>
+  <library name="popper.js">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.js@1.16.1_dist_umd_popper.js" />
+  </library>
+  <library name="tinymce">
+    <archive path="C:/Users/Admin/AppData/Roaming/JetBrains/IntelliJIdea2020.3/javascript/extLibs/http_cdn.tiny.cloud_1_no-api-key_tinymce_5_tinymce.js" />
+  </library>
+</eclipse-userlibraries>
+

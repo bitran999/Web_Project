@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <!--My SQL-->
+    <!--<property name="connection.url">jdbc:mysql://localhost:3306/pconlineweb</property>
+    <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+    <property name="connection.username">root</property>
+    <property name="connection.password"> </property>-->
+
+    <!--Postgre-->
+    <property name="connection.url">jdbc:postgresql://localhost:5432/pconlineweb</property>
+    <property name="connection.driver_class">org.postgresql.Driver</property>
+    <property name="connection.username">postgres</property>
+    <property name="connection.password">101797</property>
+
+    <!--Online-->
+  <!--  <property name="connection.url">jdbc:postgresql://ec2-34-193-46-89.compute-1.amazonaws.com:5432/des01f3hb7g934</property>
+    <property name="connection.driver_class">org.postgresql.Driver</property>
+    <property name="connection.username">dupktjyxdmomyt</property>
+    <property name="connection.password">b7181a115e120038ba06ff975c83cb20db28d8d7d432d2d95698d142ef36e13f</property>-->
+
+    <!-- JDBC connection pool (use the built-in) -->
+    <!--<property name="connection.pool_size">1</property>-->
+
+    <!-- SQL dialect -->
+    <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL82Dialect</property>
+    <!--<property name="dialect">org.hibernate.dialect.MySQLDialect</property>-->
+
+    <!-- Enable Hibernate's automatic session context management -->
+    <property name="current_session_context_class">thread</property>
+
+
+    <!-- Echo all executed SQL to stdout -->
+    <property name="show_sql">false</property>
+    <mapping class="entity.Admins" />
+    <mapping class="entity.Categories" />
+    <mapping class="entity.Orders" />
+    <mapping class="entity.Payments" />
+    <mapping class="entity.Products" />
+    <mapping class="entity.Transactions" />
+    <mapping class="entity.Users" />
+    <!-- DB schema will be updated if needed -->
+    <!-- <property name="hibernate.hbm2ddl.auto">update</property> -->
+  </session-factory>
+</hibernate-configuration>
